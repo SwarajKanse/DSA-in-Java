@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 2 | 0 | 0 | `2026-09-09` |
+| **3** | 3 | 0 | 0 | `2026-09-09` |
 
 ---
 
@@ -15,7 +15,8 @@
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [If Else Adult Teen Problem](./DSA/General/if-else-adult-teen-problem) | [JAVA](./DSA/General/if-else-adult-teen-problem/solution.java) | 🟢 Easy | `DSA` |
-| 0002 | [Input Output](./DSA/General/input-output) | [JAVA](./DSA/General/input-output/solution.java) | 🟢 Easy | `DSA` |
+| 0002 | [If ElseIf](./DSA/General/if-elseif) | [JAVA](./DSA/General/if-elseif/solution.java) | 🟢 Easy | `DSA` |
+| 0003 | [Input Output](./DSA/General/input-output) | [JAVA](./DSA/General/input-output/solution.java) | 🟢 Easy | `DSA` |
 
 ---
 
